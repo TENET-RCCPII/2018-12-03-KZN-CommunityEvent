@@ -59,7 +59,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 <div class="row">
   <div class="col-md-2" align="center">
-    <a href="{{ site.swc_site }}"><img src="{{ page.root }}/assets/img/swc-icon-blue.svg" alt="Software Carpentry logo" /></a>
+    <a href="https://doit.missouri.edu/wp-content/uploads/2017/09/Software-Carpentry-Workshop-Icon-264x200.png" alt="Software Carpentry logo" /></a>
   </div>
   <div class="col-md-8">
     Since 1998,
