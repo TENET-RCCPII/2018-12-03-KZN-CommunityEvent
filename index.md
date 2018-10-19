@@ -153,16 +153,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). They are also required to abide by
-  {% if page.carpentry == "swc" %}
-  Software Carpentry's
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry's
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry's
-  {% endif %}
-  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
+  <strong>Requirements:</strong> Participants are required to abide by the 
+  <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Carpentries' Code of Conduct</a>.
 </p>
 
 {% comment %}
@@ -172,15 +164,16 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Accessibility:</strong> We are committed to making this workshop
+  <strong>Accessibility:</strong> We are committed to making this event
   accessible to everybody.
-  The workshop organizers have checked that:
+  The workshop organizers will check that:
 </p>
 <ul>
   <li>Accessible restrooms are available.</li>
-  <li>The building is currently being equipped with a elevator but this will not yet be ready for the workshop.
-If you are unable to make use of steps (1 flight), please get in touch with the organisers. </li>
 </ul>
+
+<p>Please get in touch if you have any specific mobility or other needs.
+</p>
 
 
 {% comment %}
