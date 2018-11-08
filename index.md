@@ -201,7 +201,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
-<p><strong>Registration</strong>: Please register your interest to attend by completing the <a href="https://goo.gl/forms/fjDzK8H3HjHsoH3X2">short online form</a>. </p>
+<p><strong>Registration</strong>: Please register your interest to attend by completing the <a href="https://goo.gl/forms/DW8OTV1Y3R4E7ArL2">short online form</a>. </p>
 
 <hr/>
 
