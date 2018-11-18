@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "KwaZulu Natal Carpentries Community Event"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "TBC, Durban"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "aha Riverside Hotel, 10 Kenneth Kaunda Rd, Durban North, Durban, 4065"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-29.8482119,30.9222505"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
@@ -133,6 +133,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 </p>
 {% endif %}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3461.9900810193103!2d31.030728250561364!3d-29.806830927136854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef70701009063bf%3A0xb9fc916c57b2fc50!2saha+Riverside+Hotel!5e0!3m2!1sen!2sza!4v1542546399183" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 {% comment %}
   DATE
